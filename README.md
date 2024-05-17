@@ -29,27 +29,27 @@ Applied two filter techniques for initial feature selection.
 Used Recursive Feature Elimination (RFE) with logistic regression for feature selection.
 
 ## 2. Dimension Reduction
-Applied two dimension reduction techniques to simplify the dataset:
-Principal Component Analysis (PCA)
-Linear Discriminant Analysis (LDA)
+Applied two-dimension reduction techniques to simplify the dataset:
+* Principal Component Analysis (PCA)
+* Linear Discriminant Analysis (LDA)
 
 ## 3. Classification Techniques
 Experimented with four different classification techniques:
 
-Support Vector Machine (SVM)
-XGBoost
-Decision Tree
-Stacking method (combining multiple models)
+* Support Vector Machine (SVM)
+* XGBoost
+* Decision Tree
+* Stacking method (combining multiple models)
 Fine-tuned each algorithm to achieve the best performance.
 
 ## 4. Handling Imbalanced Data
 Used SMOTE (Synthetic Minority Over-sampling Technique) to address class imbalance in the dataset.
 
 ## 5. Clustering
-Applied PCA for dimensionality reduction before clustering.
-Used K-Nearest Neighbors (KNN) and Birch for clustering the reduced data.
-Visualized clustering results for better insights.
+* Applied PCA for dimensionality reduction before clustering.
+* Used K-Nearest Neighbors (KNN) and Birch for clustering the reduced data.
+* Visualized clustering results for better insights.
 
 ## 6. Visualization
-Visualized results using various plots and charts to interpret the findings.
-Utilized Power BI for advanced visualizations and interactive dashboards.
+* Visualized results using various plots and charts to interpret the findings.
+* Utilized Power BI for advanced visualizations and interactive dashboards.
