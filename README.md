@@ -8,16 +8,16 @@ This project focuses on analyzing hospital mortality using various data science 
 The predictors of in-hospital mortality for intensive care units (ICU)-admitted heart failure (HF) patients remain poorly characterized. We aimed to develop and validate a prediction model for all-cause in-hospital mortality among ICU-admitted HF patients.
 
 Target Variable - Outcome
-0 - Alive
-1 - Death
+* 0 - Alive
+* 1 - Death
 
 # Team Members
-Ola Mamdouh
-Maria Anwar
-Marly Magdy
-Mirna Tarek
-Verina Michel
-Mariem Nasr
+* Ola Mamdouh
+* Maria Anwar
+* Marly Magdy
+* Mirna Tarek
+* Verina Michel
+* Mariem Nasr
 
 # Tasks and Methodologies
 ## 1. Feature Selection
