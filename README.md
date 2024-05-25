@@ -40,7 +40,7 @@ Experimented with four different classification techniques:
 * XGBoost
 * Decision Tree
 * Stacking method (combining multiple models)
-Fine-tuned each algorithm to achieve the best performance.
+* Fine-tuned each algorithm to achieve the best performance.
 
 ## 4. Handling Imbalanced Data
 Used SMOTE (Synthetic Minority Over-sampling Technique) to address class imbalance in the dataset.
